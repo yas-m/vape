@@ -1,0 +1,60 @@
+@import 'bootstrap';
+@import 'font-awesome-sprockets';
+@import 'font-awesome';
+
+.feature-section {
+
+	height: 760px;
+}
+
+.badge-primary {
+
+	background-color: transparent;
+	border: 1px solid #17a2b8;
+	color: #17a2b8;
+	padding: 6px 10px;
+}
+
+.footer {
+
+	background-color: #e6e6e6;
+	border-top: 1px solid #333;
+}
+
+.form-control {
+
+	border: 0.5px solid #e8e8e8;
+}
+
+.center-div
+{
+  margin: auto;
+}
+
+.card-signup {
+	border: 0px;
+	margin-top: 100px;
+}
+
+.create-forgot-link {
+
+	display: inline;
+}
+
+.signup-container {
+	height: 650px;
+}
+
+.ourstory-top-section {
+	background-color: #263645;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	padding-left: 150px;
+}
+
+.ourstory-quality-section {
+
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
